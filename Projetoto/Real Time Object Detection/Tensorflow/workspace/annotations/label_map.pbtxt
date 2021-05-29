@@ -1,0 +1,24 @@
+item { 
+	name:'right'
+	id:1
+}
+item { 
+	name:'left'
+	id:2
+}
+item { 
+	name:'up'
+	id:3
+}
+item { 
+	name:'down'
+	id:4
+}
+item { 
+	name:'jump'
+	id:5
+}
+item { 
+	name:'shoot'
+	id:6
+}

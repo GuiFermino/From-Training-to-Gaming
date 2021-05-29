@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all_Images</folder>
+	<filename>down.cedb18c5-bafd-11eb-9a9d-005056c00008.jpg</filename>
+	<path>D:\Facul\WPy64-3940\notebooks\Projetoto\RealTimeObjectDetection-main\Tensorflow\workspace\images\collected_images\all_Images\down.cedb18c5-bafd-11eb-9a9d-005056c00008.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>down</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>74</ymin>
+			<xmax>215</xmax>
+			<ymax>453</ymax>
+		</bndbox>
+	</object>
+</annotation>

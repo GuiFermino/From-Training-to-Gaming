@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all_Images</folder>
+	<filename>jump.ae7dc5b7-bafe-11eb-905a-005056c00008.jpg</filename>
+	<path>D:\Facul\WPy64-3940\notebooks\Projetoto\RealTimeObjectDetection-main\Tensorflow\workspace\images\collected_images\all_Images\jump.ae7dc5b7-bafe-11eb-905a-005056c00008.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jump</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>238</xmin>
+			<ymin>101</ymin>
+			<xmax>560</xmax>
+			<ymax>395</ymax>
+		</bndbox>
+	</object>
+</annotation>
